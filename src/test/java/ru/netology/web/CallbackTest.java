@@ -11,7 +11,7 @@ import static com.codeborne.selenide.Selenide.*;
 
 public class CallbackTest {
     @BeforeEach
-    void SetUp() {
+    void setUp() {
         open("http://localhost:9999/");
     }
 
