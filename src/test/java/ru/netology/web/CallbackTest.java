@@ -5,8 +5,6 @@ import com.codeborne.selenide.SelenideElement;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
-import java.util.List;
-
 import static com.codeborne.selenide.Selenide.*;
 
 public class CallbackTest {
